@@ -1,0 +1,2 @@
+0 : The binary vector length is not divisible by the dimensionality of the target vector space.
+1 : The binary vector length is not divisible by the dimensionality of the target vector space.
